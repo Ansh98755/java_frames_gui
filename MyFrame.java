@@ -1,3 +1,4 @@
+package java_frames_gui;
 import javax.swing.JFrame;
 
 public class MyFrame{
